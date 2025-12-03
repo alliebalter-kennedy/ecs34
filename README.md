@@ -1,1 +1,1 @@
-# ecs34
+# Landscape evolution modeling lecture
