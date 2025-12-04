@@ -1,3 +1,3 @@
-# Landscape evolution modeling lecture
+# In-class activity: landscape evolution modeling
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alliebalter-kennedy/ecs34/HEAD)
